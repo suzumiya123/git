@@ -4,6 +4,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 add new branch. how is that.
-
-
-
+dev is different of master.
